@@ -14,7 +14,7 @@ namespace concrete_beam_design
         static void Main()
         {
             Console.WriteLine("Beam Designer Tool");
-            Console.WriteLine("by Anjum")
+            Console.WriteLine("by Anjum");
             // Grades of concrete and their characteristic strengths (in MPa)
             string[] concreteGrades = { "C20/25", "C25/30", "C28/35", "C32/40", "C35/45", "C40/50", "C50/60" };
             double[] fck = { 20, 25, 28, 32, 35, 40, 50 };
