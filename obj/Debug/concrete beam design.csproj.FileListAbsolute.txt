@@ -1,0 +1,8 @@
+C:\Users\anjum\source\repos\MyFirstConsoleApplication\MyFirstConsoleApplication\concrete beam design\bin\Debug\concrete beam design.exe.config
+C:\Users\anjum\source\repos\MyFirstConsoleApplication\MyFirstConsoleApplication\concrete beam design\bin\Debug\concrete beam design.exe
+C:\Users\anjum\source\repos\MyFirstConsoleApplication\MyFirstConsoleApplication\concrete beam design\bin\Debug\concrete beam design.pdb
+C:\Users\anjum\source\repos\MyFirstConsoleApplication\MyFirstConsoleApplication\concrete beam design\obj\Debug\concrete beam design.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\MyFirstConsoleApplication\MyFirstConsoleApplication\concrete beam design\obj\Debug\concrete beam design.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\MyFirstConsoleApplication\MyFirstConsoleApplication\concrete beam design\obj\Debug\concrete beam design.exe
+C:\Users\anjum\source\repos\MyFirstConsoleApplication\MyFirstConsoleApplication\concrete beam design\obj\Debug\concrete beam design.pdb
+C:\Users\anjum\source\repos\MyFirstConsoleApplication\MyFirstConsoleApplication\concrete beam design\obj\Debug\concrete beam design.exe.config
